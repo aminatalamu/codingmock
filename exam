@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+</style>
+</head>
+<body>
+ <img src="http://www.stjosephsrush.ie/wp-content/uploads/2015/08/ST-Logo.png"
+<h1>Coding at St Josephs</h1>
+<p>What You Should Know Before You Pick Codin As One of Your Subjects</p>
+<li> Coding is not just a subject tat you can sit down and do nothing, you WILL have to do work and alot of it if you want to do well. </li>
+<li> There will be alot of group work and alot of projects so be prepared.</li>
+<li> you will be working with people that maybe you havent talked to before so be friendly, from my experience i have gained alot of new friends</li>
+<li> But most importantly coding is an enjoyable subject do HAVE FUN!!!!!!! </li>
+
+<h2>THINGS YOU WILL LEARN</h2>
+ <img src="http://quantlabs.net/blog/wp-content/uploads/2015/11/pythonlogo.jpg" width="300" height="200">
+  <img src="http://gadgetrave.io/wp-content/uploads/2017/12/raspberry-pie.jpg" width="300" height="200">
+ <img src="https://www.planet-source-code.com/vb/2010Redesign/images/LangugeHomePages/HTML5_CSS_JavaScript.png" width="300" height="200">
+<p> And many more , I hope you enjoyed this </p>
+ <img src="https://tctechcrunch2011.files.wordpress.com/2015/04/codecode.jpg" width="620" height="300">
+
+
+
+
+</body>
+</html>
+ 
